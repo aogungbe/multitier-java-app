@@ -1,6 +1,6 @@
-# DevProfile Stack (Manual Provisioning via Vagrant) 🛠️
+# Multiple multi-tier arh (Manual Provisioning via Vagrant) 🛠️
 
-This project sets up a full-stack enterprise-style Java web application architecture using **Vagrant** and **VirtualBox**, with **manual provisioning** of backend services already configured within the Vagrant setup.
+This project sets up a multi-layer Java web application architecture using **Vagrant** and **VirtualBox**, with **manual provisioning** of backend services already configured within the Vagrant setup.
 
 Once cloned, the user can bring up the entire environment using a **single command: `vagrant up`**. All required provisioning steps (MySQL, Memcached, RabbitMQ, Tomcat, Nginx) are built into the Vagrantfile and its supporting configuration, so no manual installation is required after `vagrant up`.
 
