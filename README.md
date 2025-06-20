@@ -1,4 +1,4 @@
-# Multiple multi-tier arh (Manual Provisioning via Vagrant) 🛠️
+# Multiple multi-tier arhitecture (Manual Provisioning via Vagrant) 🛠️
 
 This project sets up a multi-layer Java web application architecture using **Vagrant** and **VirtualBox**, with **manual provisioning** of backend services already configured within the Vagrant setup.
 
