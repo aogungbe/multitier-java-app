@@ -68,7 +68,7 @@ The Java web application deployed in this environment originates from the public
 
 🔗 https://github.com/hkhcoder/vprofile-project
 
-This repository only provides the infrastructure provisioning and environment setup required to run the application across multiple services and VMs.
+This repository only provides the infrastructure provisioning and environment setup required to run the application across multiple services and VMs. It is for local provisioning only.
 
 ⚠️ All rights and ownership of the original application code belong to the original author.
 
